@@ -39,7 +39,7 @@
 <img alt="outlook-icon" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/microsoftoutlook.svg" />
 </a> 
 &nbsp   
-<a href="https://www.linkedin.com/in/wagner-lemes-531961255/">
+<a href="https://www.linkedin.com/in/wagner-lemes/">
 <img alt="linkedin-icon" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </div>
