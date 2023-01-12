@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/wagnerskull/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=wagnerskull&title_color=54B689&border_color=000&text_color=fff&bg_color=111821" alt="Skull-github-stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=wagnerskull&title_color=54B689&border_color=000&text_color=fff&bg_color=111821" alt="Skull-github-stats" /></a>
 </div>
 
 <br>
