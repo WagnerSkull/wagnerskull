@@ -27,6 +27,7 @@
 <br><br>  
 <p>Studying in this moment:</p>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="javascript-logo">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs-logo">
 </div>
 
 <div align="center">
